@@ -28,7 +28,8 @@ include::assemblies/devtools/proc-devspaces-aap-sync-manual.adoc[leveloffset=+1]
 
 include::assemblies/assembly-self-service-admin-content-setup.adoc[leveloffset=+1]
 
-include::assemblies/assembly-self-service-repository-synchronization.adoc[leveloffset=+1]
+// EE Builder feature not yet public - commented out per Craig Brandt (2026-04-29)
+// include::assemblies/assembly-self-service-repository-synchronization.adoc[leveloffset=+1]
 
 include::assemblies/devtools/proc-self-service-customize-portal-ui.adoc[leveloffset=+1]
 
